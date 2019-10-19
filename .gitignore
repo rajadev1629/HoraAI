@@ -1,0 +1,17 @@
+*.iml
+.gradle
+/local.properties
+/.idea
+.DS_Store
+/build
+/captures
+gradle
+local.properties
+gradlew.bat
+gradle.properties
+*.apk
+output.json
+
+
+.idea/instapk.xml
+instapk.log*
